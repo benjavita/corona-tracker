@@ -33,7 +33,7 @@
     <!-- Chart.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 
-    <title>Covid-19 Tracker</title>
+    <title>Covid-19 2020 Tracker</title>
 </head>
 <body>
     <div class="container-fluid bg-light p-5 text-center my-3">
@@ -97,12 +97,6 @@
             </table>
         </div>
     </div>
-
-    <footer class="footer mt-auto py-3 bg-light">
-        <div class="container text-center">
-            <span class="text-muted">Copyright &copy;2020, <a href="https://packetcode.in" target="_blank">Packetcode</a></span>
-        </div>
-    </footer>
 
 </body>
 </html>
